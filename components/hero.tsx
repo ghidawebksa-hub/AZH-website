@@ -19,7 +19,7 @@ export function Hero() {
           className="w-full h-full object-cover"
         >
           <source
-            src="http://alzaheriamarketing.com/wp-content/uploads/2026/03/copy_617621C8-BF43-4221-B373-1F82470EBE03-1.mov"
+            src="https://drive.google.com/file/d/1tk6d5tDjcUYhJXNlAqtz9XN0px4iVInj/view?usp=drive_link"
             type="video/mp4"
           />
         </video>
